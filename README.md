@@ -8,7 +8,7 @@
 >
 > ## 📝 PDF
 >
-> - [**`FILE LINK`**]()
+> - [**`FILE LINK`**](https://github.com/nekitlenin/philosophers/blob/master/en.subject-Philosophers.pdf)
 ## 🚀 Content
 
 ### 🚩 Mandatory part
